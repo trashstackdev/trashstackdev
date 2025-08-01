@@ -1,17 +1,12 @@
 👋 Hi there, my name is Luca Chmielarski.
 
-I'm a Junior Developer at SAP and student at the DHBW!
-
-🏢 Currently working at [@SAP](https://github.com/SAP)
+I'm a Junior Developer at [@SAP](https://github.com/SAP)
 
 🔭 I’m working on various projects using:
-- Java ☕
-- Python 🐍
-- Go 🏁
-
-💼 I'm passionate about:
-- Transforming supply chain management 📦
-- Driving operational excellence in organizations 🚀
+- Java
+- Python 
+- Go
+- JavaScript
 
 <!--
 **930C/930C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
