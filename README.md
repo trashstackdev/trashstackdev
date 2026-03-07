@@ -1,24 +1,30 @@
-👋 Hi there, my name is Luca Chmielarski.
+```markdown
+# About me
 
-I'm a Junior Developer at [@SAP](https://github.com/SAP)
+Full-Stack Software engineer @SAP with strong platform focus. 
+Daily deployments at thousands of tenant scale.
 
-🔭 I’m working on various projects using:
-- Java
-- Python 
-- Go
-- JavaScript
+## Approach
 
-<!--
-**930C/930C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Idiomatic code over "clean" code. 
+Go for simplicity. 
+Python for fast iteration. 
+TypeScript for type safety.
 
-Here are some ideas to get you started:
+-> **Understanding framework philosophies rather than just using**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -> Kubernetes as a platform abstraction, not infrastructure magic. 
+  -> declarative systems > imperative scripts. 
+  -> GitOps as operational principle. 
+  -> using service mesh patterns when they solve real problems and don't just add technical debt
+  -> **DevOps is a philosophy, not just tools.**
+
+
+## What I daily-drive
+
+Kubernetes deployments with isolated services. Flux for GitOps. Helm for templating. Istio for traffic and policy. GitHub Actions for complex CI/CD workflows.
+
+Backend: Go, Python, TypeScript. Frontend: React, Svelte. Infrastructure: Terraform, Ansible. Data: PostgreSQL, Redis.
+
+-> Read more about me and my Homelab at [trashstack.dev](https://trashstack.dev).
+```
